@@ -1,6 +1,6 @@
-### Hi 👋
+### Hi 👋 Looking for remote/full-time work, full-stack development, Ai exploration. 
 
-Looking for remote/full-time work, full-stack development, Ai exploration
+⬅️ My contact information is on the left
 
 <a href="https://github.com/xxnuo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxnuo&theme=swift&show_icons=true" />
