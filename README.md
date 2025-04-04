@@ -1,12 +1,10 @@
-### Hi 👋 I am looking for remote/full-time work, full-stack development, Ai exploration. 
+### Hi 👋 I am looking for remote/part-time work, full-stack development, Ai exploration. 
 
 I am a developer passionate about exploring new technologies, with great curiosity and enthusiasm for innovation, consistently adhering to the spirit of open source and knowledge sharing.
 
 My programming journey began in middle school. During high school, I actively contributed to open-source projects while participating in informatics competitions; upon entering university, I became more deeply involved in building open-source communities. Now, at the age of 25, I have accumulated extensive technical experience.
 
 I specialize in backend development for AI applications, SaaS platforms, and cloud services, with expertise in Python and Go programming languages, as well as frontend development capabilities. I have experience with several successfully commercialized products and am currently developing a client-side product using AI.
-
-I am now looking for new career opportunities and hope to join a team with a strong technical culture where I can continue to explore and innovate together to build products. If your company has a suitable position, I sincerely welcome your contact.
 
 ⬅️ My contact information is on the left
 
