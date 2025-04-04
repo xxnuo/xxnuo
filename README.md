@@ -1,4 +1,4 @@
-### Hi 👋 I am looking for remote/part-time work, full-stack development, Ai exploration. 
+### Hi 👋 I am looking for remote part-time work, full-stack development, Ai exploration. 
 
 I am a developer passionate about exploring new technologies, with great curiosity and enthusiasm for innovation, consistently adhering to the spirit of open source and knowledge sharing.
 
