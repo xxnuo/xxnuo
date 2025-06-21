@@ -4,7 +4,7 @@ I am a developer passionate about exploring new technologies, with great curiosi
 
 My programming journey began in middle school. During high school, I actively contributed to open-source projects while participating in informatics competitions; upon entering university, I became more deeply involved in building open-source communities. Now, at the age of 24, I have accumulated extensive technical experience.
 
-I specialize in backend development for AI applications, SaaS platforms, and cloud services, with expertise in Python and Go programming languages, as well as frontend development capabilities. I have experience with several successfully commercialized products and am currently developing a client-side product using AI.
+I specialize in backend development for AI applications, SaaS platforms, and cloud services, with expertise in Python and Go programming languages, as well as frontend development capabilities. I have experience with several successfully commercialized products.
 
 ⬅️ My contact information is on the left
 
