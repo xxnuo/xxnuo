@@ -4,6 +4,9 @@ I am a developer passionate about exploring new technologies, with great curiosi
 
 I specialize in backend development for AI applications, SaaS platforms, and cloud services. I have experience with several successfully commercialized products.
 
-<a href="https://github.com/xxnuo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxnuo&theme=swift&show_icons=true" />
-</a>
+
+<div align="center">
+  <a href="https://github.com/xxnuo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxnuo&theme=swift&show_icons=true" />
+  </a>
+</div>
